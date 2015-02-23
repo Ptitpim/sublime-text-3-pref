@@ -1,0 +1,37 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"Backbone.js",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"CSS Format",
+		"DocBlockr",
+		"Dotfiles Syntax Highlighting",
+		"Drupal",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Go To Definition",
+		"Grunt",
+		"Handlebars",
+		"HTML5",
+		"Indent XML",
+		"JsFormat",
+		"JSHint",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Theme - Spacegray",
+		"Underscorejs snippets"
+	]
+}
